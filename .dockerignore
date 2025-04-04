@@ -1,6 +1,5 @@
 # Dependencias y compilados
 node_modules
-bun.lock
 
 # Archivos del sistema y configuraciones locales
 .DS_Store
