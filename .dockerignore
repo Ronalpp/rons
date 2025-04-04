@@ -1,0 +1,16 @@
+# Dependencias y compilados
+node_modules
+bun.lock
+
+# Archivos del sistema y configuraciones locales
+.DS_Store
+.vscode
+.idea
+*.log
+
+# Variables de entorno
+.env
+
+# Git y archivos de control de versiones
+.git
+.gitignore
